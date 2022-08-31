@@ -27,5 +27,6 @@ assignees:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 status-website:
+  apiBaseUrl: https://api.github.com
   baseUrl: /upptime # where "repo" is your repository name
   name: Your Status Website
