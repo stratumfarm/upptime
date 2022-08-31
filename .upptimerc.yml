@@ -12,8 +12,8 @@ assignees:
 
 status-website:
   cname: status.whalesburg.com
-  name: Whalesburg Status
-  introTitle: Whalesburgs status page
+  name: Status
+  introTitle: Whalesburg Status Page
   introMessage: Welcome to our status page
   navbar:
     - title: Status
@@ -22,7 +22,7 @@ status-website:
       href: https://whalesburg.com
     - title: GitHub
       href: https://github.com/whalesburg
-  theme: dark
+  theme: night
   logoUrl: https://raw.githubusercontent.com/stratumfarm/upptime/master/assets/wb_icon.svg
   favicon: https://raw.githubusercontent.com/stratumfarm/upptime/master/assets/favicon-32x32.png
   faviconSvg: https://raw.githubusercontent.com/stratumfarm/upptime/master/assets/wb_icon.svg
