@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/whalesburg.com",
     "slug": "whalesburg",
     "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
-    "time": 636,
-    "timeDay": 597,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "uptime": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 611,
+    "timeDay": 534,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2022-09-02": 11,
       "2022-08-31": 19
     }
   }
